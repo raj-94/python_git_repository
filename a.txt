@@ -1,1 +1,2 @@
 a content line 1
+A file added contents
